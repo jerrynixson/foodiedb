@@ -1,0 +1,20 @@
+[project]
+name = "openfood"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+
+# core dependencies for API + UI
+# note: `pydantic` comes with fastapi but listed for clarity
+dependencies = [
+    "fastapi>=0.98.0",
+    "uvicorn[standard]>=0.23.0",
+    "pydantic>=2.6",
+    "psycopg2-binary>=2.9",
+    "supabase>=1.7",
+    "python-dotenv>=1.0",
+    "streamlit>=1.30",
+    "pandas>=2.0",
+]
+

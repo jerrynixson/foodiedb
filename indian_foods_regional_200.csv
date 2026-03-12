@@ -1,0 +1,201 @@
+food_name,category,is_packaged,barcode,variant_label,serving_size,notes,calories,protein,carbs,fat,fiber,sugar,sodium
+Jadoh,North East,false,,Classic Pork Jadoh,100g,Khasi red rice cooked with pork and spices,228,11.0,24.0,9.0,1.2,0.8,420
+Jadoh,North East,false,,Chicken Jadoh,100g,Red rice cooked with chicken and black pepper,205,13.0,25.0,5.5,1.1,0.6,390
+Dohneiiong,North East,false,,Pork Dohneiiong,100g,Pork curry with black sesame paste from Meghalaya,255,15.0,6.0,20.0,1.5,1.5,460
+Dohneiiong,North East,false,,Mushroom Dohneiiong,100g,Mushrooms simmered in black sesame gravy,138,4.5,10.0,8.5,2.0,2.2,360
+Tungrymbai,North East,false,,Traditional Tungrymbai,100g,Fermented soybean curry with ginger and garlic,155,12.0,10.0,8.0,4.0,2.0,340
+Tungrymbai,North East,false,,Pork Tungrymbai,100g,Fermented soybean stew with pork fat and chilies,210,13.0,9.0,14.0,3.5,1.5,420
+Khar,North East,false,,Raw Papaya Khar,100g,Assamese alkaline curry with papaya,72,1.5,10.0,2.5,2.2,3.2,280
+Khar,North East,false,,Mixed Vegetable Khar,100g,Vegetable stew cooked with alkali water,78,2.0,11.0,2.6,2.8,3.6,290
+Masor Tenga,North East,false,,Tomato Masor Tenga,100g,Sour Assamese fish curry with tomato,128,14.0,4.5,6.0,0.6,2.5,410
+Masor Tenga,North East,false,,Outenga Masor Tenga,100g,Sour fish curry with elephant apple,132,14.0,5.0,6.2,0.8,2.0,420
+Eromba,North East,false,,Potato Eromba,100g,Mashed boiled vegetables with fermented fish and chili,112,3.5,18.0,3.0,3.0,2.2,370
+Eromba,North East,false,,Fish Eromba,100g,Mashed vegetables with extra fermented fish,128,8.0,16.0,3.8,2.8,2.0,410
+Singju,North East,false,,Vegetable Singju,100g,Manipuri salad with cabbage herbs and sesame,92,3.0,11.0,4.2,3.2,2.6,250
+Singju,North East,false,,Lotus Stem Singju,100g,Crisp salad with lotus stem herbs and perilla,98,3.2,12.0,4.5,3.5,2.5,260
+Akhuni Pork,North East,false,,Smoked Pork Akhuni,100g,Naga pork curry with fermented soybean,275,18.0,5.0,21.0,1.0,1.0,490
+Akhuni Pork,North East,false,,Fresh Pork Akhuni,100g,Pork simmered with fermented soybean and chili,248,17.0,5.0,18.0,1.0,0.8,470
+Bai,North East,false,,Vegetable Bai,100g,Mizo vegetable stew with local greens,68,2.5,9.0,2.0,2.8,2.5,240
+Bai,North East,false,,Smoked Pork Bai,100g,Mizo stew with greens and smoked pork,142,9.0,8.0,8.5,2.5,2.0,360
+Sanpiau,North East,false,,Chicken Sanpiau,100g,Rice porridge with chicken and herbs,124,8.5,18.0,2.5,0.8,0.5,280
+Sanpiau,North East,false,,Pork Sanpiau,100g,Rice porridge with minced pork and herbs,146,8.0,17.0,5.0,0.7,0.5,320
+Chhurpi Soup,North East,false,,Plain Chhurpi Soup,100g,Soup with hardened yak cheese and herbs,96,6.5,5.0,6.0,0.3,1.5,230
+Chhurpi Soup,North East,false,,Vegetable Chhurpi Soup,100g,Soup with chhurpi greens and mild spices,88,5.5,6.5,5.0,0.8,2.0,220
+Smoked Pork,North East,false,,Bamboo Shoot Smoked Pork,100g,Northeast style smoked pork with bamboo shoots,268,18.0,4.0,21.0,1.2,1.0,520
+Smoked Pork,North East,false,,Axone Style Smoked Pork,100g,Smoked pork cooked with fermented soybean paste,282,18.0,4.5,22.0,1.0,1.0,540
+Aloo Pitika,North East,false,,Mustard Oil Aloo Pitika,100g,Mashed potato with mustard oil and onion,116,2.2,18.0,4.0,2.0,1.2,280
+Aloo Pitika,North East,false,,Egg Aloo Pitika,100g,Mashed potato with boiled egg and chili,138,5.0,16.0,5.8,1.8,1.0,310
+Duck Curry Assamese,North East,false,,Ash Gourd Duck Curry,100g,Assamese duck curry with ash gourd,210,15.0,4.5,15.0,0.6,1.0,430
+Duck Curry Assamese,North East,false,,Black Pepper Duck Curry,100g,Duck curry with black pepper and ginger,224,16.0,4.0,16.2,0.5,0.8,450
+Pitha,North East,false,,Til Pitha,100g,Rice roll filled with sesame and jaggery,248,5.5,42.0,6.5,2.0,16.0,90
+Pitha,North East,false,,Ghila Pitha,100g,Soft Assamese rice cake lightly sweetened,212,4.2,41.0,3.0,1.2,9.0,70
+Galho,North East,false,,Vegetable Galho,100g,Naga rice porridge with greens,118,3.0,22.0,1.8,1.8,0.8,230
+Galho,North East,false,,Chicken Galho,100g,Rice porridge with chicken and local herbs,142,8.5,19.0,3.2,1.0,0.6,280
+Ngatok,North East,false,,Rohu Ngatok,100g,Manipuri steamed fish curry with herbs,132,16.0,3.0,6.0,0.5,0.5,360
+Ngatok,North East,false,,Catfish Ngatok,100g,Steamed fish curry with stronger flavor,146,17.0,3.0,7.2,0.5,0.5,390
+Chamthong,North East,false,,Vegetable Chamthong,100g,Manipuri clear vegetable stew,58,2.0,8.0,1.8,1.8,2.2,180
+Chamthong,North East,false,,Fish Chamthong,100g,Light stew with vegetables and fish,92,8.0,7.0,3.6,1.5,1.8,260
+Thukpa,North East,false,,Vegetable Thukpa,100g,Noodle soup with vegetables and mild broth,102,3.5,16.0,2.5,1.2,1.5,300
+Thukpa,North East,false,,Chicken Thukpa,100g,Noodle soup with chicken and vegetables,128,7.5,15.0,4.0,1.0,1.2,340
+Momo,North East,false,,Steamed Veg Momo,100g,Steamed dumplings filled with vegetables,178,5.5,30.0,3.5,2.2,2.5,320
+Momo,North East,false,,Steamed Chicken Momo,100g,Steamed dumplings with minced chicken filling,196,10.0,24.0,6.0,1.2,1.5,360
+Chak Hao Kheer,North East,false,,Traditional Chak Hao Kheer,100g,Manipuri black rice pudding with milk,182,4.0,29.0,5.5,1.2,16.0,90
+Chak Hao Kheer,North East,false,,Coconut Milk Chak Hao Kheer,100g,Black rice pudding finished with coconut milk,194,3.2,28.0,7.5,1.4,15.0,80
+Phagshapa,North East,false,,Pork Radish Phagshapa,100g,Bhutan and Sikkim style pork with radish and chili,238,16.0,4.0,18.0,1.0,1.0,430
+Phagshapa,North East,false,,Pork Chili Phagshapa,100g,Pork stew with dried red chili and radish,246,16.5,4.0,18.8,1.0,0.8,450
+Kinema Curry,North East,false,,Kinema Curry,100g,Fermented soybean curry from Sikkim,148,11.0,10.0,7.0,3.8,1.8,320
+Kinema Curry,North East,false,,Kinema Potato Curry,100g,Fermented soybean curry with potato cubes,162,9.0,16.0,7.2,3.5,2.0,340
+Gyathuk,North East,false,,Vegetable Gyathuk,100g,Sikkimese noodle soup with vegetables,96,3.0,15.0,2.0,1.2,1.5,280
+Gyathuk,North East,false,,Chicken Gyathuk,100g,Noodle soup with chicken broth and herbs,122,7.5,14.0,3.6,1.0,1.2,320
+Smoked Beef Curry,North East,false,,Naga Smoked Beef Curry,100g,Smoked beef simmered with local chilies,218,20.0,3.5,14.0,0.8,0.5,470
+Smoked Beef Curry,North East,false,,Chili Smoked Beef Curry,100g,Smoked beef curry with extra chili and herbs,224,20.0,3.8,14.5,0.8,0.5,490
+Sarson Saag,North,false,,Punjabi Sarson Saag,100g,Mustard greens slow cooked with spinach and spices,110,4.5,10.0,6.0,4.0,2.5,320
+Sarson Saag,North,false,,Ghee Topped Sarson Saag,100g,Mustard greens finished with ghee tempering,138,4.5,10.0,8.8,4.0,2.5,340
+Makki di Roti,North,false,,Plain Makki di Roti,1 piece (70g),Flatbread made with maize flour,186,4.0,34.0,3.5,3.2,0.5,170
+Makki di Roti,North,false,,Ghee Brushed Makki di Roti,1 piece (70g),Maize flatbread brushed with ghee,214,4.0,34.0,6.5,3.2,0.5,180
+Kadhi Pakora,North,false,,Punjabi Kadhi Pakora,100g,Yogurt and gram flour curry with fritters,172,5.0,14.0,10.0,1.2,3.0,430
+Kadhi Pakora,North,false,,Rajasthani Kadhi,100g,Thinner gram flour yogurt curry without pakora,124,4.0,11.0,7.0,0.8,2.5,390
+Amritsari Kulcha,North,false,,Aloo Amritsari Kulcha,1 piece (120g),Stuffed kulcha with spiced potato filling,286,8.0,46.0,7.0,3.0,2.0,410
+Amritsari Kulcha,North,false,,Paneer Amritsari Kulcha,1 piece (120g),Stuffed kulcha with paneer filling,302,11.0,42.0,9.0,2.5,2.0,430
+Pindi Chole,North,false,,Dry Pindi Chole,100g,Spiced chickpeas cooked without gravy,176,8.8,24.0,5.2,6.8,3.5,420
+Pindi Chole,North,false,,Masala Pindi Chole,100g,Chickpeas with extra onion and masala,184,8.5,24.0,6.0,6.8,3.8,440
+Bedmi Aloo,North,false,,Bedmi with Aloo Sabzi,100g,Urad stuffed fried bread served with potato curry,242,6.0,30.0,11.0,2.5,1.5,390
+Bedmi Aloo,North,false,,Spicy Bedmi Aloo,100g,Fried bread and spicier potato curry,254,6.0,30.0,12.0,2.5,1.4,420
+Kachori Sabzi,North,false,,Moong Kachori Sabzi,100g,Fried pastry with moong filling and potato curry,268,7.0,31.0,13.0,3.0,1.8,430
+Kachori Sabzi,North,false,,Urad Kachori Sabzi,100g,Fried pastry with urad filling and curry,276,8.0,30.0,13.8,3.2,1.8,450
+Methi Malai Matar,North,false,,Creamy Methi Malai Matar,100g,Peas fenugreek and cream based curry,192,5.5,13.0,13.0,3.0,4.0,300
+Methi Malai Matar,North,false,,Light Methi Malai Matar,100g,Peas fenugreek curry with less cream,158,5.2,13.0,9.5,3.0,3.5,280
+Dum Aloo Kashmiri,North,false,,Yogurt Dum Aloo Kashmiri,100g,Baby potatoes simmered in yogurt gravy,168,3.5,22.0,7.5,2.0,3.0,360
+Dum Aloo Kashmiri,North,false,,Fennel Style Dum Aloo Kashmiri,100g,Potato curry scented with fennel and dry ginger,172,3.5,22.0,8.0,2.0,2.8,370
+Kashmiri Yakhni,North,false,,Mutton Kashmiri Yakhni,100g,Mutton in fragrant yogurt based gravy,208,17.0,3.5,14.0,0.3,1.5,430
+Kashmiri Yakhni,North,false,,Chicken Kashmiri Yakhni,100g,Chicken in aromatic yogurt gravy,176,20.0,3.0,9.0,0.3,1.5,390
+Rista,North,false,,Classic Rista,100g,Kashmiri meatballs in red gravy,222,14.0,4.0,16.0,0.5,1.2,440
+Rista,North,false,,Lean Rista,100g,Kashmiri meatballs with lower fat mince,198,15.0,4.0,13.0,0.5,1.2,420
+Gushtaba,North,false,,Classic Gushtaba,100g,Mutton meatballs in yogurt gravy,236,15.0,4.0,18.0,0.4,1.5,430
+Gushtaba,North,false,,Light Yogurt Gushtaba,100g,Reduced fat meatballs in yogurt gravy,208,15.5,4.0,15.0,0.4,1.5,410
+Shab Deg,North,false,,Turnip Shab Deg,100g,Slow cooked meat and turnip curry,196,14.0,6.0,12.0,1.2,2.5,410
+Shab Deg,North,false,,Rich Shab Deg,100g,Heavier meat and turnip curry with more ghee,224,15.0,5.5,15.0,1.0,2.0,440
+Nadru Yakhni,North,false,,Lotus Stem Yakhni,100g,Lotus stem cooked in yogurt fennel gravy,128,3.5,15.0,6.0,2.5,3.0,330
+Nadru Yakhni,North,false,,Light Nadru Yakhni,100g,Lotus stem in lighter yogurt gravy,114,3.5,15.0,4.5,2.5,3.0,310
+Aloo Tamatar,North,false,,Home Style Aloo Tamatar,100g,Potato curry with tomato and cumin,126,2.5,18.0,5.0,2.0,3.0,340
+Aloo Tamatar,North,false,,Banarasi Aloo Tamatar,100g,Tangy Benarasi potato curry,132,2.5,19.0,5.2,2.0,3.2,360
+Bhatt ki Churkani,North,false,,Traditional Bhatt ki Churkani,100g,Kumaoni black soybean curry,162,9.0,18.0,6.0,5.5,2.0,360
+Bhatt ki Churkani,North,false,,Thin Gravy Bhatt ki Churkani,100g,Black soybean curry with lighter consistency,148,8.5,18.0,4.8,5.5,2.0,340
+Chainsoo,North,false,,Thick Chainsoo,100g,Garhwal roasted urad curry thick style,154,8.0,15.0,6.0,4.0,1.5,350
+Chainsoo,North,false,,Light Chainsoo,100g,Roasted lentil curry with less ghee,136,8.0,15.0,4.0,4.0,1.5,320
+Aloo Ke Gutke,North,false,,Jakhya Tadka Aloo Ke Gutke,100g,Stir fried hill potatoes with jakhya seeds,142,2.5,20.0,5.8,2.2,1.2,320
+Aloo Ke Gutke,North,false,,Hill Style Aloo Ke Gutke,100g,Potatoes tossed with red chili and coriander,148,2.5,20.5,6.0,2.2,1.2,330
+Kafuli,North,false,,Spinach Kafuli,100g,Garhwali spinach and fenugreek gravy,98,4.0,8.0,5.0,3.2,1.5,260
+Kafuli,North,false,,Mixed Greens Kafuli,100g,Leafy greens cooked with rice flour,104,4.2,8.5,5.2,3.5,1.5,270
+Bharwa Karela,North,false,,Dry Bharwa Karela,100g,Stuffed bitter gourd with spice filling,142,3.5,14.0,8.0,4.5,3.0,340
+Bharwa Karela,North,false,,Onion Tomato Bharwa Karela,100g,Stuffed bitter gourd in onion tomato masala,154,3.8,15.0,9.0,4.5,3.5,360
+Paneer Lababdar,North,false,,Restaurant Style Paneer Lababdar,100g,Paneer in buttery onion tomato gravy,242,10.5,10.0,18.0,1.4,4.5,430
+Paneer Lababdar,North,false,,Home Style Paneer Lababdar,100g,Paneer curry with moderate cream and butter,214,10.5,10.0,15.0,1.4,4.0,400
+Matar Paneer,North,false,,Dhaba Style Matar Paneer,100g,Peas and paneer in spiced tomato gravy,198,9.5,12.0,12.5,2.5,4.0,390
+Matar Paneer,North,false,,Home Style Matar Paneer,100g,Peas and paneer curry with lighter gravy,174,9.0,12.0,10.0,2.5,3.5,360
+Malai Kofta,North,false,,Rich Malai Kofta,100g,Fried paneer potato dumplings in rich gravy,248,7.0,16.0,17.0,2.0,5.0,420
+Malai Kofta,North,false,,Light Malai Kofta,100g,Dumplings in lighter cashew tomato gravy,212,7.0,15.0,13.5,2.0,4.0,390
+Seekh Kebab,North,false,,Mutton Seekh Kebab,100g,Skewered minced mutton kebab,264,19.0,3.0,20.0,0.5,1.0,520
+Seekh Kebab,North,false,,Chicken Seekh Kebab,100g,Skewered minced chicken kebab,198,21.0,3.5,11.0,0.5,1.0,460
+Shami Kebab,North,false,,Classic Shami Kebab,100g,Lentil and meat patties pan fried,246,16.0,8.0,17.0,2.0,1.2,480
+Shami Kebab,North,false,,Lean Shami Kebab,100g,Lower fat shami kebab with chicken mince,208,18.0,7.0,12.0,2.0,1.0,430
+Undhiyu,West,false,,Surti Undhiyu,100g,Gujarati mixed vegetable casserole with beans and spices,168,4.5,18.0,8.5,4.5,5.0,370
+Undhiyu,West,false,,Kathiyawadi Undhiyu,100g,Spicier mixed vegetable preparation with peanuts,182,5.0,18.0,10.0,4.8,4.5,390
+Sev Tameta,West,false,,Sweet Spicy Sev Tameta,100g,Tomato curry topped with gram flour sev,176,3.8,17.0,10.0,2.2,6.5,420
+Sev Tameta,West,false,,Garlic Sev Tameta,100g,Tomato sev curry with extra garlic tempering,182,4.0,17.0,10.5,2.2,6.0,430
+Gujarati Kadhi,West,false,,Sweet Gujarati Kadhi,100g,Thin yogurt gram flour curry slightly sweet,118,3.5,11.0,6.0,0.4,5.5,340
+Gujarati Kadhi,West,false,,Light Gujarati Kadhi,100g,Reduced sugar and fat Gujarati kadhi,98,3.5,9.0,4.2,0.4,3.5,310
+Dal Dhokli,West,false,,Traditional Dal Dhokli,100g,Wheat dumplings simmered in sweet spicy dal,156,5.5,24.0,4.0,3.0,3.0,320
+Dal Dhokli,West,false,,Peanut Tadka Dal Dhokli,100g,Dal dhokli with peanut and ghee tempering,172,6.0,24.0,5.5,3.2,3.0,340
+Thepla,West,false,,Methi Thepla,1 piece (50g),Soft fenugreek flatbread from Gujarat,138,4.0,21.0,4.0,2.5,1.0,220
+Thepla,West,false,,Dudhi Thepla,1 piece (50g),Bottle gourd flatbread from Gujarat,132,3.8,21.0,3.5,2.2,1.0,210
+Handvo,West,false,,Mixed Dal Handvo,100g,Savory baked lentil cake with vegetables,184,7.0,21.0,7.0,3.0,2.0,330
+Handvo,West,false,,Bottle Gourd Handvo,100g,Fermented savory cake with dudhi,172,6.5,20.0,6.5,3.2,2.0,320
+Patra,West,false,,Steamed Patra,100g,Colocasia leaf rolls with gram flour filling,188,6.0,23.0,7.5,4.0,5.0,360
+Patra,West,false,,Tempered Patra,100g,Patra tossed with sesame and mustard tempering,204,6.0,23.0,9.0,4.0,5.0,390
+Lilva Kachori,West,false,,Fried Lilva Kachori,100g,Puffed pastry stuffed with pigeon peas,286,7.5,31.0,15.0,4.0,2.5,420
+Lilva Kachori,West,false,,Baked Lilva Kachori,100g,Baked pastry stuffed with lilva masala,232,7.5,31.0,9.0,4.0,2.5,360
+Misal Pav,West,false,,Kolhapuri Misal Pav,100g,Sprout curry topped with farsan and served with pav,212,7.5,27.0,8.5,4.0,4.0,470
+Misal Pav,West,false,,Puneri Misal Pav,100g,Milder sprout curry with farsan and bread,196,7.0,27.0,7.0,4.0,4.0,430
+Usal,West,false,,Matki Usal,100g,Moth bean curry Maharashtrian style,146,8.0,20.0,4.0,5.0,2.5,340
+Usal,West,false,,Vatana Usal,100g,Dried peas curry with coconut and spices,152,7.5,22.0,4.0,5.2,2.8,350
+Zunka,West,false,,Dry Zunka,100g,Dry gram flour stir fry with onion and chili,162,6.0,15.0,8.5,3.5,2.5,380
+Zunka,West,false,,Onion Zunka,100g,Gram flour scramble with more onion,168,6.0,16.0,8.5,3.5,3.0,390
+Pithla,West,false,,Plain Pithla,100g,Soft gram flour curry with mustard and chili,128,5.0,12.0,6.0,2.0,1.8,330
+Pithla,West,false,,Garlic Pithla,100g,Gram flour curry with extra garlic tempering,134,5.0,12.0,6.5,2.0,1.8,350
+Bharli Vangi,West,false,,Peanut Coconut Bharli Vangi,100g,Stuffed eggplant in peanut coconut masala,176,4.0,14.0,11.0,4.5,3.5,360
+Bharli Vangi,West,false,,Sesame Peanut Bharli Vangi,100g,Stuffed eggplant with sesame peanut spice mix,184,4.2,14.0,12.0,4.5,3.2,370
+Kolhapuri Chicken,West,false,,Spicy Kolhapuri Chicken,100g,Chicken curry with Kolhapuri masala,198,22.0,4.0,10.0,0.8,1.2,470
+Kolhapuri Chicken,West,false,,Coconut Kolhapuri Chicken,100g,Chicken curry with coconut enriched Kolhapuri gravy,214,21.0,4.5,12.0,0.8,1.5,490
+Sol Kadhi,West,false,,Classic Sol Kadhi,100ml,Kokum and coconut digestive drink,62,1.0,4.0,4.5,0.2,2.0,140
+Sol Kadhi,West,false,,Light Coconut Sol Kadhi,100ml,Kokum drink with lighter coconut milk,48,0.8,3.5,3.0,0.2,1.8,120
+Bombil Fry,West,false,,Semolina Crust Bombil Fry,100g,Bombay duck fish coated in semolina and fried,226,18.0,9.0,13.0,0.5,0.5,460
+Bombil Fry,West,false,,Spiced Batter Bombil Fry,100g,Bombay duck fish in gram flour batter,238,17.0,10.0,14.0,0.8,0.8,490
+Malvani Fish Curry,West,false,,Coconut Malvani Fish Curry,100g,Konkan fish curry with coconut and spice paste,172,17.0,5.0,9.0,0.6,2.0,430
+Malvani Fish Curry,West,false,,Light Malvani Fish Curry,100g,Reduced coconut version of fish curry,148,17.0,4.0,6.5,0.6,1.5,400
+Laal Maas,West,false,,Traditional Laal Maas,100g,Rajasthani red chili mutton curry,242,18.0,3.0,18.0,0.4,0.8,500
+Laal Maas,West,false,,Yogurt Balanced Laal Maas,100g,Mutton curry with slightly lighter gravy,224,18.0,3.0,16.0,0.4,0.8,470
+Gatte ki Sabzi,West,false,,Rich Gatte ki Sabzi,100g,Gram flour dumplings in yogurt gravy,186,6.0,17.0,10.5,2.0,3.0,390
+Gatte ki Sabzi,West,false,,Light Gatte Curry,100g,Gatte in thinner lower fat yogurt gravy,158,6.0,17.0,7.5,2.0,2.8,360
+Ker Sangri,West,false,,Dry Ker Sangri,100g,Desert beans and berries stir fry,148,5.0,16.0,7.5,5.0,3.5,350
+Ker Sangri,West,false,,Ghee Tossed Ker Sangri,100g,Ker sangri finished with extra ghee,172,5.0,16.0,10.0,5.0,3.5,360
+Bajra Khichda,West,false,,Plain Bajra Khichda,100g,Pearl millet porridge with spices,138,4.2,25.0,2.4,3.5,0.8,240
+Bajra Khichda,West,false,,Moong Bajra Khichda,100g,Pearl millet and moong one pot meal,148,5.8,24.0,3.0,4.2,0.8,260
+Dabeli,West,false,,Classic Dabeli,1 piece (120g),Spiced potato bun with peanuts and pomegranate,286,6.5,42.0,10.0,4.0,7.0,430
+Dabeli,West,false,,Cheese Dabeli,1 piece (120g),Dabeli with grated cheese filling,318,8.5,41.0,13.0,4.0,7.0,460
+Fafda,West,false,,Plain Fafda,100g,Crisp gram flour strips fried in oil,492,14.0,45.0,29.0,5.0,3.0,520
+Fafda,West,false,,Ajwain Fafda,100g,Gram flour strips flavored with ajwain,498,14.0,45.0,29.5,5.0,3.0,530
+Khaman,West,false,,Nylon Khaman,100g,Soft steamed gram flour cake,176,8.0,24.0,5.0,2.0,6.0,410
+Khaman,West,false,,Tempered Khaman,100g,Steamed gram flour cake with sweet spicy tempering,188,8.0,25.0,5.5,2.0,7.0,430
+Sabudana Vada,West,false,,Fried Sabudana Vada,100g,Crisp sago and peanut patties deep fried,312,4.5,38.0,15.0,1.5,1.5,340
+Sabudana Vada,West,false,,Air Fried Sabudana Vada,100g,Sago peanut patties cooked with less oil,248,4.5,38.0,9.0,1.5,1.5,300
+Sambar,South,false,,Tiffin Sambar,100g,South Indian lentil vegetable stew for breakfast,86,3.5,12.0,2.2,2.8,2.5,300
+Sambar,South,false,,Arachuvitta Sambar,100g,Lentil stew with fresh roasted coconut spice paste,108,3.8,12.0,4.0,3.0,2.5,320
+Rasam,South,false,,Tomato Rasam,100g,Thin tamarind tomato spiced broth,42,1.2,6.0,1.0,0.8,2.5,240
+Rasam,South,false,,Pepper Rasam,100g,Spiced broth with black pepper and cumin,38,1.0,5.0,0.8,0.6,1.8,220
+Appam,South,false,,Plain Appam,1 piece (60g),Fermented lacy rice pancake,118,2.0,24.0,1.4,0.6,0.5,130
+Appam,South,false,,Palappam,1 piece (60g),Soft center appam with coconut milk in batter,126,2.0,24.0,2.2,0.6,0.6,140
+Puttu,South,false,,Rice Puttu,100g,Steamed layered rice cake with coconut,186,3.8,36.0,3.0,2.0,1.5,140
+Puttu,South,false,,Ragi Puttu,100g,Steamed finger millet and coconut cylinders,172,4.2,31.0,3.2,3.8,1.2,150
+Kadala Curry,South,false,,Black Chickpea Kadala Curry,100g,Kerala black chickpea coconut curry,164,8.0,20.0,5.5,6.0,3.0,360
+Kadala Curry,South,false,,Coconut Kadala Curry,100g,Richer black chickpea curry with extra coconut,182,8.0,20.0,7.5,6.0,3.0,380
+Avial,South,false,,Kerala Avial,100g,Mixed vegetables with coconut and yogurt,122,3.0,11.0,7.5,3.5,3.5,280
+Avial,South,false,,Tamil Style Avial,100g,Mixed vegetables with coconut and cumin paste,116,3.0,11.0,6.8,3.5,3.2,270
+Thoran,South,false,,Cabbage Thoran,100g,Finely chopped cabbage stir fried with coconut,98,2.5,8.0,6.0,2.8,2.5,250
+Thoran,South,false,,Beans Thoran,100g,French beans stir fried with coconut,102,3.0,9.0,6.0,3.2,2.5,260
+Kootu,South,false,,Chow Chow Kootu,100g,Chayote and lentil coconut curry,104,4.0,11.0,4.8,2.8,2.0,260
+Kootu,South,false,,Pumpkin Kootu,100g,Pumpkin and lentil coconut curry,108,4.0,12.0,4.8,3.0,3.5,260
+Poriyal,South,false,,Carrot Beans Poriyal,100g,Dry vegetable stir fry with coconut,88,2.2,10.0,4.2,3.0,3.0,220
+Poriyal,South,false,,Beetroot Poriyal,100g,Beetroot stir fry with coconut and mustard,94,2.0,11.0,4.2,3.0,4.0,230
+Lemon Rice,South,false,,Temple Style Lemon Rice,100g,Rice tempered with turmeric lemon and peanuts,182,3.8,28.0,6.0,1.8,1.2,320
+Lemon Rice,South,false,,Peanut Lemon Rice,100g,Lemon rice with extra roasted peanuts,196,4.5,28.0,7.5,2.0,1.2,330
+Tamarind Rice,South,false,,Puliyodarai,100g,Tamarind rice with sesame and spice paste,198,3.8,31.0,6.5,1.8,4.2,340
+Tamarind Rice,South,false,,Andhra Tamarind Rice,100g,Tangier tamarind rice with peanuts,206,4.2,31.0,7.2,2.0,4.0,360
+Curd Rice,South,false,,Plain Curd Rice,100g,Cooked rice mixed with curd and tempering,144,3.5,22.0,4.5,0.4,2.0,280
+Curd Rice,South,false,,Pomegranate Curd Rice,100g,Curd rice with pomegranate and coriander,152,3.5,23.0,4.5,0.6,3.0,290
+Coconut Rice,South,false,,Plain Coconut Rice,100g,Rice tempered with grated coconut and curry leaves,188,3.0,28.0,7.0,1.6,1.5,290
+Coconut Rice,South,false,,Peanut Coconut Rice,100g,Coconut rice with roasted peanuts,202,4.2,28.0,8.5,1.8,1.5,300
+Bisi Bele Bath,South,false,,Karnataka Bisi Bele Bath,100g,Rice lentil vegetable dish with spice blend,152,4.8,24.0,4.2,3.0,2.5,320
+Bisi Bele Bath,South,false,,Hotel Style Bisi Bele Bath,100g,Rice lentil vegetable dish with more ghee,168,4.8,24.0,5.8,3.0,2.5,340
+Pongal,South,false,,Ven Pongal,100g,Soft rice and moong dal with pepper and ghee,168,4.5,25.0,5.5,1.5,0.5,290
+Pongal,South,false,,Millet Pongal,100g,Foxtail millet pongal with moong dal,154,5.0,23.0,4.5,2.2,0.5,280
+Vangi Bath,South,false,,Brinjal Vangi Bath,100g,Spiced rice with eggplant and peanuts,176,3.8,28.0,5.5,2.4,2.0,310
+Vangi Bath,South,false,,Peanut Vangi Bath,100g,Rice with eggplant and higher peanut masala,188,4.2,28.0,6.8,2.5,2.0,320
+Puliyogare,South,false,,Karnataka Puliyogare,100g,Tamarind spiced rice with peanuts,194,4.0,30.0,6.5,1.8,3.8,330
+Puliyogare,South,false,,Sesame Puliyogare,100g,Tamarind rice with roasted sesame powder,202,4.2,30.0,7.2,2.0,3.8,340
+Payasam,South,false,,Palada Payasam,100g,Kerala rice flake milk pudding,176,3.5,29.0,5.2,0.2,18.0,90
+Payasam,South,false,,Moong Dal Payasam,100g,Lentil jaggery pudding with coconut milk,188,4.5,28.0,6.5,1.0,17.0,80
+Chicken Chettinad,South,false,,Chicken Chettinad,100g,Tamil style chicken curry with roasted spices,204,22.0,4.0,11.0,0.8,1.2,460
+Chicken Chettinad,South,false,,Pepper Chicken Chettinad,100g,Chicken curry with extra black pepper and curry leaves,198,22.0,3.5,10.0,0.8,1.0,450
+Fish Moilee,South,false,,Kerala Fish Moilee,100g,Fish stew in coconut milk with mild spices,168,17.0,4.0,9.0,0.4,1.5,390
+Fish Moilee,South,false,,Light Coconut Fish Moilee,100g,Fish stew with reduced coconut milk,148,17.0,4.0,6.5,0.4,1.2,360
+Kerala Stew,South,false,,Vegetable Kerala Stew,100g,Vegetables simmered in coconut milk and pepper,112,2.5,10.0,7.0,1.8,2.5,260
+Kerala Stew,South,false,,Chicken Kerala Stew,100g,Chicken and potato stew in coconut milk,154,11.0,8.0,9.5,1.0,1.8,320
+Hyderabadi Haleem,South,false,,Mutton Haleem,100g,Slow cooked wheat lentil and mutton porridge,228,12.0,21.0,10.5,2.8,1.5,420
+Hyderabadi Haleem,South,false,,Chicken Haleem,100g,Wheat lentil and chicken slow cooked porridge,198,13.0,21.0,7.0,2.8,1.5,390
+Ragi Mudde,South,false,,Plain Ragi Mudde,100g,Steamed finger millet balls,132,3.2,28.0,0.8,3.6,0.2,20
+Ragi Mudde,South,false,,Ghee Ragi Mudde,100g,Finger millet balls finished with ghee,158,3.2,28.0,3.8,3.6,0.2,30
+Kori Gassi,South,false,,Mangalorean Kori Gassi,100g,Chicken curry with roasted coconut spices,212,20.0,4.0,12.0,0.8,1.5,450
+Kori Gassi,South,false,,Coconut Rich Kori Gassi,100g,Chicken curry with extra coconut masala,228,20.0,4.0,14.0,0.8,1.5,470
+Neer Dosa,South,false,,Plain Neer Dosa,1 piece (50g),Thin delicate rice crepe from coastal Karnataka,72,1.2,15.0,0.5,0.2,0.1,90
+Neer Dosa,South,false,,Coconut Neer Dosa,1 piece (50g),Soft rice crepe with coconut in batter,82,1.2,15.0,1.5,0.2,0.2,95
